@@ -1,4 +1,8 @@
 # hello-world
 first via course
-aboutme <- c("i am new", "yes new")
+##hello world!
+~~sup lady~~
+**whats the deal with airline food**
+*pew pew**
+
 
